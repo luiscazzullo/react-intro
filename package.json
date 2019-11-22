@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luiscazzullo/react-intro/issues"
   },
-  "homepage": "https://github.com/luiscazzullo/react-intro#readme"
+  "homepage": "https://github.com/luiscazzullo/react-intro#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
